@@ -1,1 +1,0 @@
-# ghostflare-bot
