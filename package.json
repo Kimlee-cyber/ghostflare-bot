@@ -1,0 +1,16 @@
+{
+  "name": "solana-token-info-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot that fetches Solana token information.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
